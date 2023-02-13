@@ -1,0 +1,9 @@
+
+1st - CreateIndex(files*, exclude*)
+    - words cleaning and return the array of words with exclude
+    array 1, 2, 3
+
+objects = file1, file2, file3
+
+
+
